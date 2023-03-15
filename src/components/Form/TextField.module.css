@@ -1,0 +1,6 @@
+.textgroup{
+    display: flex;
+    padding:5px;
+    margin: 5px;
+    gap:5px;
+}
